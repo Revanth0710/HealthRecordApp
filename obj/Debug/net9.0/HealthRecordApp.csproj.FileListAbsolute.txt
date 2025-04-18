@@ -1,0 +1,14 @@
+/Users/revanthkamisetty/HealthRecordApp/bin/Debug/net9.0/HealthRecordApp
+/Users/revanthkamisetty/HealthRecordApp/bin/Debug/net9.0/HealthRecordApp.deps.json
+/Users/revanthkamisetty/HealthRecordApp/bin/Debug/net9.0/HealthRecordApp.runtimeconfig.json
+/Users/revanthkamisetty/HealthRecordApp/bin/Debug/net9.0/HealthRecordApp.dll
+/Users/revanthkamisetty/HealthRecordApp/bin/Debug/net9.0/HealthRecordApp.pdb
+/Users/revanthkamisetty/HealthRecordApp/obj/Debug/net9.0/HealthRecordApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/revanthkamisetty/HealthRecordApp/obj/Debug/net9.0/HealthRecordApp.AssemblyInfoInputs.cache
+/Users/revanthkamisetty/HealthRecordApp/obj/Debug/net9.0/HealthRecordApp.AssemblyInfo.cs
+/Users/revanthkamisetty/HealthRecordApp/obj/Debug/net9.0/HealthRecordApp.csproj.CoreCompileInputs.cache
+/Users/revanthkamisetty/HealthRecordApp/obj/Debug/net9.0/HealthRecordApp.dll
+/Users/revanthkamisetty/HealthRecordApp/obj/Debug/net9.0/refint/HealthRecordApp.dll
+/Users/revanthkamisetty/HealthRecordApp/obj/Debug/net9.0/HealthRecordApp.pdb
+/Users/revanthkamisetty/HealthRecordApp/obj/Debug/net9.0/HealthRecordApp.genruntimeconfig.cache
+/Users/revanthkamisetty/HealthRecordApp/obj/Debug/net9.0/ref/HealthRecordApp.dll
